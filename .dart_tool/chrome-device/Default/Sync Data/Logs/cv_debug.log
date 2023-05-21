@@ -1,0 +1,5 @@
+{"logTime": "0521/073212", "correlationVector":"ofpPTlheHKwh0ySq/1gLV6.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0521/073212", "correlationVector":"3xCDObhWODIAu02OqHV2bo.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastUS2_000e", "migrationStage":"NotStarted", "server":"GENERAL01000006"}}
+{"logTime": "0521/073212", "correlationVector":"3xCDObhWODIAu02OqHV2bo.2","action":"AAD.GetKeyResponse", "result":"Fail", "context":Keys=0.LastKeyStatus=Empty.State=None.Pending NewKey. Tags: }
+{"logTime": "0521/073212", "correlationVector":"iu0LGgFPPINM49x5mAlXqb","action":"AAD.Mip.Pack:", "result":"Fail", "context":MIP_CLOUD_COMMERCIAL:Service disabled}
+{"logTime": "0521/073212", "correlationVector":"iu0LGgFPPINM49x5mAlXqb.0","action":"AAD.AddCommitKey", "result":"Fail", "context":MIP service disabled. Tags: }

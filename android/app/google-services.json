@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432534647262",
+    "project_id": "parcialflutter2-8858e",
+    "storage_bucket": "parcialflutter2-8858e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432534647262:android:183c721596f5f99e32ad4f",
+        "android_client_info": {
+          "package_name": "com.utec.adonay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432534647262-9caeq2q15jmir917kplh7bqtev7s5rvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAddnFRRa3f73p8RsqczvKfpz0qJ1Th7Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432534647262-9caeq2q15jmir917kplh7bqtev7s5rvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
